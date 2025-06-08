@@ -55,11 +55,16 @@ Install dependencies using pip:
 
 pip install -r requirements.txt
 
-Run the notebook:
+### Run the notebook:
 
-jupyter lab
-# or
-jupyter notebook
+Open The Budget AI Researcher and the Power of RAG Chains.ipynb
+
+Follow the cells in order: setup → vectorize → retrieve → generate
+
+Optional:
+
+Add Semantic Scholar or OpenReview credentials for enhanced polishing.
+
 
 Example Use Cases
 Summarization: Generate 100-word summaries of complex machine learning papers
