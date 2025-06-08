@@ -95,13 +95,8 @@ Question Answering: Ask questions like "What is federated learning?" using real 
 Citation
 If you use this system or reference the manuscript in your work, please cite:
 
-@article{lee2024budget,
-  title={The Budget AI Researcher and the Power of RAG Chains},
-  author={Franklin Lee and Tengfei Ma},
-  journal={IEEE Access},
-  year={2024},
-  doi={10.1109/ACCESS.2024.0429000}
-}
+(Coming soon)
+
 Contact
 Franklin Lee: franklin.lee@stonybrook.edu
 
